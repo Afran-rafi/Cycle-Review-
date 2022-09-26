@@ -1,56 +1,38 @@
 [
     {
       "_id": "6331aa19f87d4ba40280cb1c",
-      "image": "",
+      "image": "images/Review.png",
       "name": "Flora Serrano",
-      "review": ""
+      "review": "The cycle I purchase was very well maintained and comfortable"
     },
     {
       "_id": "6331aa19a6a0f231d7c6255f",
-      "image": "",
+      "image": "images/Review.png",
       "name": "Ratliff Cobb",
-      "review": ""
+      "review": "This is a Great cycle bro ... Outstanding Performance"
     },
     {
       "_id": "6331aa19fea8dc90c6d362da",
-      "image": "",
+      "image": "images/Review.png",
       "name": "Bernard Murray",
-      "review": ""
+      "review": "The cycle is Awesome"
     },
     {
       "_id": "6331aa19294db89cad5729c9",
-      "image": "",
+      "image": "images/Review.png",
       "name": "Autumn Graves",
-      "review": ""
+      "review": "This is a super bike like that..I highly recommended the cycle is best."
     },
     {
       "_id": "6331aa193341e70e05d2f692",
-      "image": "",
+      "image": "images/Review.png",
       "name": "Franklin Higgins",
-      "review": ""
+      "review": "WOW!! This is a great cycle."
     },
     {
       "_id": "6331aa19d5ee8cc6630563aa",
-      "image": "",
+      "image": "images/Review.png",
       "name": "Pope Griffin",
-      "review": ""
-    },
-    {
-      "_id": "6331aa194e1ead7a1e5195d4",
-      "image": "",
-      "name": "Christine Chen",
-      "review": ""
-    },
-    {
-      "_id": "6331aa191ee3451deb74aca4",
-      "image": "",
-      "name": "Alice Knox",
-      "review": ""
-    },
-    {
-      "_id": "6331aa19719955882454bf36",
-      "image": "",
-      "name": "Neal Scott",
-      "review": ""
+      "review": "Speechless!! The cycle is super.."
     }
   ]

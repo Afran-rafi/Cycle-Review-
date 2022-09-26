@@ -1,12 +1,13 @@
 import React from 'react';
 import Home from './Home';
-import Review from './Reviews'
+import '../CSS/Homepage.css'
+import Homereview from './Homereview';
 
 const Homepage = () => {
     return (
-        <div>
+        <div>  
             <Home></Home>
-            <Review></Review>
+            <Homereview></Homereview>
         </div>
     );
 };
