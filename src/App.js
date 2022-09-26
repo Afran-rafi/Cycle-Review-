@@ -4,9 +4,9 @@ import Navbar from './Components/Shared/Navbar';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App 2xl:container 2xl:mx-auto">
       <Navbar></Navbar>
-      <Routes>
+      <Routes className='lg:px-24 px-4'>
         <Route path='/' element></Route>
         <Route path='/review' element></Route>
         <Route path='/dashboard' element></Route>
