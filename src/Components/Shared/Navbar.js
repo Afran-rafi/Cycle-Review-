@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link} from 'react-router-dom';
-import img from '../Images/Cycle icon.png.png'
+import img from '../Images/Cycle icon.png'
 import CustomLink from './CustomeLink';
 
 const Navbar = () => {
